@@ -4,7 +4,7 @@ certifi                         # Certifi is (most likely) installed through one
 coreapi==2.3.0                  # API documentation
 coverage==5.3                   # Unit test coverage
 coveralls==2.1.2                # Coveralls linking (for Travis)
-cryptography==3.4.8             # Cryptography support
+cryptography==39.0.1             # Cryptography support
 django-admin-shell==0.1.2       # Python shell for the admin interface
 django-allauth==0.45.0          # SSO for external providers via OpenID
 django-cleanup==5.1.0           # Manage deletion of old / unused uploaded files
